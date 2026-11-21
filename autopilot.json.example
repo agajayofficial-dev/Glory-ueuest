@@ -1,0 +1,7 @@
+[
+  {"name": "press-enter", "scope": "prompt", "regex": "press\\s+enter|\\[enter\\]", "send": ""},
+  {"name": "yes/no",      "scope": "prompt", "regex": "\\[y/n\\]|\\(y/n\\)", "send": "y"},
+  {"name": "matches",     "scope": "prompt", "regex": "how\\s+many.*match", "send": "{MATCHES}"},
+  {"name": "accounts",    "scope": "prompt", "regex": "account|\\(or\\s+all\\)", "send": "all"},
+  {"name": "main-menu",   "scope": "prompt", "regex": "select option|choice", "send": "3"}
+]

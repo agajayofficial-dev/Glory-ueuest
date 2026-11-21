@@ -1,0 +1,15 @@
+{
+  "MajorloginReqBuild_pb2.cpython-313-aarch64-linux-android.so": "449130be982af5a4458b901fe62435e9f068b81ee25bb943f401b42e6ebacbb1",
+  "MajorloginResp_pb2.cpython-313-aarch64-linux-android.so": "4908a2ae36b81a82ddc963c735d009cfd9129e9b8ef817cc9216f71efd24e42f",
+  "PorTs_pb2.cpython-313-aarch64-linux-android.so": "703c493e17cf0e1ca42131517b8be18db63b8aa275d1d107468037f7498ce5a9",
+  "br_engine.cpython-313-aarch64-linux-android.so": "a8b0a59fb801cc2e9bcf9abd5fe1b07c0a8e03aef36f834b1aaf0fdb16b51732",
+  "br_worker_compiled.cpython-313-aarch64-linux-android.so": "da2563a520b6c1f69f044b8d43468965a1ccad2863e191affb13f87129c24ce1",
+  "device_profiles.cpython-313-aarch64-linux-android.so": "a49104749cb04e8de4554d493aec46089071e856bc9f1a26858c05713bf73601",
+  "friend_request_api.cpython-313-aarch64-linux-android.so": "29fa79dff1e40f1f6a9de9b203bd18f2708797e84391ce186ffbf298471d6adf",
+  "homer_equip.cpython-313-aarch64-linux-android.so": "5b0c7b165e3d3f19c8cadef3aace41083a60a25d717dec6c36e6611e32c4d504",
+  "message_ids.cpython-313-aarch64-linux-android.so": "e94d63cfe67273a89a858450ab23f3e33f5c37b1af1d82d5604b8f81940c1bef",
+  "midx_app.cpython-313-aarch64-linux-android.so": "f3993ea741fcb053a0aedc87af29a3720ad6851b70c040dfe31573e2cb8bd777",
+  "nggl_core.cpython-313-aarch64-linux-android.so": "64c52411c164c6fade87193283a2a30314e1f0031659838b36a4a4e1011c9678",
+  "reqClan_pb2.cpython-313-aarch64-linux-android.so": "578f1c56a6e027713f22c7706642167a654baac38a6557adb1f0a48dad3ad351",
+  "shared_accounts.cpython-313-aarch64-linux-android.so": "6e6dad0266c1633832dc8972eafa019cf18bf3f6f9a6850da9cd94df378aab2a"
+}
